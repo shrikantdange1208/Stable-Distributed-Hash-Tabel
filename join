@@ -1,0 +1,3 @@
+#!/bin/bash
+ant build
+ant Join -Darg0=$1 -Darg1=$2
